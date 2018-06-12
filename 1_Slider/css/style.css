@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    color: whitesmoke;
+}
+.slider {
+    width: 400px;
+    height: 200px;
+}
+.slider ul{
+    list-style: none;
+}
+
+.slider li{
+    display: none;
+}
+
+.slider .visible{
+    display: inline-block;
+}
